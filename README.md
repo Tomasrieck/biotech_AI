@@ -4,7 +4,7 @@ The CNN used for this AI is build with Tensorflow and Keras.
 
 ### Training
 
-The model is trained in the file `train_model.py` or `train_model.ipynb` if you prefer a jupyter notebook file. When this Python file is executed a file `parameters.h5` is saved to the directory.
+The model is trained in the file `train_model.py` or `train_model.ipynb` if you prefer a jupyter notebook file. When this Python file is executed a file `parameters.keras` is saved to the directory.
 
 ### Using the model
 
