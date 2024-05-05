@@ -1,4 +1,4 @@
-# lego_AI
+# biotech_AI
 
 The CNN used for this AI is build with Tensorflow and Keras.
 
@@ -8,7 +8,7 @@ The model is trained in the file `train_model.py` or `train_model.ipynb` if you 
 
 ### Using the model
 
-The model can then be used with the file `parameters.h5` in the Python file `guess_brick.py`
+The model can then be used with the file `parameters.keras` in the Python file `predict_cell.py`
 
 
 ## Requirements
